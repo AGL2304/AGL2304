@@ -46,12 +46,12 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  RECONNAISSANCE      │  Nmap, Gobuster, OSINT, énumération        │
+│  RECONNAISSANCE      │  Nmap, Gobuster, OSINT, énumération       │
 │  EXPLOITATION WEB    │  SQLi, XSS, SSRF, LFI, IDOR               │
-│  EXPLOITATION RÉSEAU │  Pivoting, lateral movement, AD attacks    │
-│  POST-EXPLOITATION   │  Persistance, privilege escalation         │
-│  REPORTING           │  CVE/CVSS, scoring OWASP, remédiation      │
-│  CTF                 │  TryHackMe · HackTheBox · RootMe           │
+│  EXPLOITATION RÉSEAU │  Pivoting, lateral movement, AD attacks   │
+│  POST-EXPLOITATION   │  Persistance, privilege escalation        │
+│  REPORTING           │  CVE/CVSS, scoring OWASP, remédiation     │
+│  CTF                 │  TryHackMe · HackTheBox · RootMe          │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -70,12 +70,12 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  MONITORING          │  Analyse de logs, détection d'anomalies    │
-│  RÉPONSE À INCIDENT  │  Triage, containment, investigation        │
-│  CVE TRACKING        │  Veille vulnérabilités, priorisation        │
-│  HARDENING           │  Durcissement systèmes, politiques sécurité│
-│  SÉCURITÉ APP        │  Audit de code, SAST, revue architecture    │
-│  DEVSECOPS           │  Intégration sécurité dans le cycle CI/CD  │
+│  MONITORING          │  Analyse de logs, détection d'anomalies   │
+│  RÉPONSE À INCIDENT  │  Triage, containment, investigation       │
+│  CVE TRACKING        │  Veille vulnérabilités, priorisation      │
+│  HARDENING           │ Durcissement systèmes, politiques sécurité│
+│  SÉCURITÉ APP        │  Audit de code, SAST, revue architecture  │
+│  DEVSECOPS           │  Intégration sécurité dans le cycle CI/CD │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -96,7 +96,7 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
     │
     ▼
   ┌─────────────────────────────────────────────────────────┐
-  │  GitHub Actions                                          │
+  │  GitHub Actions                                         │
   │  ├── SAST (analyse statique du code)                    │
   │  ├── Dependency scan (Snyk / Dependabot)                │
   │  └── Secret scanning                                    │
@@ -104,14 +104,14 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
                  │
                  ▼
   ┌─────────────────────────────────────────────────────────┐
-  │  Build & Package                                         │
+  │  Build & Package                                        │
   │  ├── Docker build                                       │
   │  └── Trivy — scan image CVE                             │
   └──────────────┬──────────────────────────────────────────┘
                  │
                  ▼
   ┌─────────────────────────────────────────────────────────┐
-  │  Deploy (K8s / AWS / OVH)                                │
+  │  Deploy (K8s / AWS / OVH)                               │
   │  ├── Tests de sécurité automatisés                      │
   │  └── Monitoring & alerting                              │
   └─────────────────────────────────────────────────────────┘
