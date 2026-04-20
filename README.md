@@ -1,19 +1,25 @@
 <div align="center">
 
 ```
-██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗
-██╔══██╗██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║
-██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
-██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+██████╗ ██╗   ██╗██████╗ ██████╗ ██╗     ███████╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██║     ██╔════╝
+██████╔╝██║   ██║██████╔╝██████╔╝██║     █████╗  
+██╔═══╝ ██║   ██║██╔══██╗██╔═══╝ ██║     ██╔══╝  
+██║     ╚██████╔╝██║  ██║██║     ███████╗███████╗
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝
+             ████████╗███████╗ █████╗ ███╗   ███╗
+             ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+                ██║   █████╗  ███████║██╔████╔██║
+                ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+                ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+                ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
 # Georges Lionel ANANI
 
-**`Cybersecurity Engineer · Red Team & Pentest · DevSecOps`**
+**`Purple Team Engineer · Red + Blue · DevSecOps`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mastère+Expert+Sécurité+%7C+École-IT;Red+Team+%7C+Pentest+Web+%26+Réseau;DevSecOps+%7C+CI%2FCD+Sécurisé;CTF+Player+%7C+THM+%7C+HTB+%7C+RootMe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Purple+Team+%3D+Red+Team+%2B+Blue+Team;Pentest+Web+%26+R%C3%A9seau+%7C+D%C3%A9tection+%26+R%C3%A9ponse;DevSecOps+%7C+CI%2FCD+S%C3%A9curis%C3%A9+%7C+Cloud;CVE+Tracker+%7C+CTF+%7C+THM+%7C+HTB+%7C+RootMe;%C3%89cole-IT+%7C+Mast%C3%A8re+Expert+S%C3%A9curit%C3%A9)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,48 +36,90 @@
 
 ---
 
-## 🧠 À propos
+## 🟣 Purple Team — Une posture à 360°
 
-Étudiant en **Mastère Expert en Architectures des Systèmes, Réseaux & Sécurité** à l'[École-IT](https://www.ecole-it.com/), spécialisé en **cybersécurité offensive**.
+Étudiant en **Mastère Expert en Architectures des Systèmes, Réseaux & Sécurité** à l'[École-IT](https://www.ecole-it.com/).
 
-Je combine une approche **Red Team** (pentest web, réseau, exploitation) avec une culture **DevSecOps** solide — CI/CD sécurisé, conteneurisation, cloud. Mon objectif : intégrer des environnements complexes où la sécurité n'est pas un afterthought, mais une fondation.
+Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'est une vision unifiée de la sécurité. Je construis des compétences à la fois en **Red Team** (pénétration, exploitation, adversarial simulation) et en **Blue Team** (détection, monitoring, réponse à incident), pour comprendre les deux faces d'une même pièce et en tirer le meilleur.
 
-> *"Security is not a product, but a process."* — Bruce Schneier
-
----
-
-## ⚔️ Offensive Security
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PENTEST WEB             │  Injection SQL, XSS, SSRF        │
-│  PENTEST RÉSEAU          │  Scan, énumération, pivoting      │
-│  AUDIT DE VULNÉRABILITÉS │  CVE/CVSS, priorisation des risques│
-│  EXPLOITATION            │  Metasploit, scripts custom       │
-│  REPORTING               │  Recommandations de remédiation   │
-│  CTF                     │  TryHackMe · HackTheBox · RootMe  │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/agl23.png)](https://tryhackme.com/p/agl23)
+> *"To defeat an attacker, you must think like one — and then build defenses that stop yourself."*
 
 ---
 
-## 🛡️ Outils & Environnements
+## 🟥 Red Team — Offensive Security
 
-<div align="center">
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  RECONNAISSANCE      │  Nmap, Gobuster, OSINT, énumération        │
+│  EXPLOITATION WEB    │  SQLi, XSS, SSRF, LFI, IDOR               │
+│  EXPLOITATION RÉSEAU │  Pivoting, lateral movement, AD attacks    │
+│  POST-EXPLOITATION   │  Persistance, privilege escalation         │
+│  REPORTING           │  CVE/CVSS, scoring OWASP, remédiation      │
+│  CTF                 │  TryHackMe · HackTheBox · RootMe           │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-| Reconnaissance | Exploitation | Analyse réseau | Environnements |
-|:-:|:-:|:-:|:-:|
-| ![Nmap](https://img.shields.io/badge/Nmap-004080?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white) Nmap | ![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat-square) Metasploit | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) Wireshark | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) Kali Linux |
-| Gobuster | SQLmap | tcpdump | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) Windows |
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) Burp Suite | John / Hashcat | Netcat | Active Directory |
+**Outils offensifs**
 
-</div>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-222222?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
+
+---
+
+## 🟦 Blue Team — Défense & Détection
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  MONITORING          │  Analyse de logs, détection d'anomalies    │
+│  RÉPONSE À INCIDENT  │  Triage, containment, investigation        │
+│  CVE TRACKING        │  Veille vulnérabilités, priorisation        │
+│  HARDENING           │  Durcissement systèmes, politiques sécurité│
+│  SÉCURITÉ APP        │  Audit de code, SAST, revue architecture    │
+│  DEVSECOPS           │  Intégration sécurité dans le cycle CI/CD  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+**Outils défensifs**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white)
 
 ---
 
 ## ⚙️ DevSecOps & Cloud
+
+```
+  Commit
+    │
+    ▼
+  ┌─────────────────────────────────────────────────────────┐
+  │  GitHub Actions                                          │
+  │  ├── SAST (analyse statique du code)                    │
+  │  ├── Dependency scan (Snyk / Dependabot)                │
+  │  └── Secret scanning                                    │
+  └──────────────┬──────────────────────────────────────────┘
+                 │
+                 ▼
+  ┌─────────────────────────────────────────────────────────┐
+  │  Build & Package                                         │
+  │  ├── Docker build                                       │
+  │  └── Trivy — scan image CVE                             │
+  └──────────────┬──────────────────────────────────────────┘
+                 │
+                 ▼
+  ┌─────────────────────────────────────────────────────────┐
+  │  Deploy (K8s / AWS / OVH)                                │
+  │  ├── Tests de sécurité automatisés                      │
+  │  └── Monitoring & alerting                              │
+  └─────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
@@ -83,25 +131,6 @@ Je combine une approche **Red Team** (pentest web, réseau, exploitation) avec u
 
 </div>
 
-```
-Pipeline DevSecOps typique :
-──────────────────────────────────────────────────────────────
-  Code push
-     │
-     ▼
-  GitHub Actions ──► SAST (analyse statique)
-     │
-     ▼
-  Build Docker ──────► Scan image (Trivy / Snyk)
-     │
-     ▼
-  Deploy K8s ─────────► Tests de sécurité automatisés
-     │
-     ▼
-  Monitoring & alerting
-──────────────────────────────────────────────────────────────
-```
-
 ---
 
 ## 💻 Stack technique
@@ -109,19 +138,53 @@ Pipeline DevSecOps typique :
 ### Langages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Technologies
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 🗂️ Projets
+
+### 🔒 Sécurité
+
+| Repo | Description | Stack | Visibilité |
+|---|---|---|:-:|
+| [🔴🔵 Red_Teams_VS_Blue_Teams](https://github.com/AGL2304/Red_Teams_VS_Blue_Teams) | Simulation d'affrontement Red vs Blue — scénarios d'attaque et contre-mesures défensives | TypeScript | 🌐 Public |
+| [🔍 Projet_CVE_Trackers](https://github.com/AGL2304/Projet_CVE_Trackers) | Outil de veille CVE : agrégation, scoring CVSS et alertes automatisées | Python | 🌐 Public |
+| 🔐 SecureVault V2 | Gestionnaire de secrets sécurisé — chiffrement AES, RBAC, audit trail complet | TypeScript | 🔒 Privé |
+| [🔑 securevault](https://github.com/AGL2304/securevault) | Version initiale du coffre-fort de mots de passe (PHP) | PHP | 🌐 Public |
+
+### ⚙️ DevOps & Cloud
+
+| Repo | Description | Stack | Visibilité |
+|---|---|---|:-:|
+| [☁️ cloudninja_agl](https://github.com/AGL2304/cloudninja_agl-) | Scripts d'automatisation cloud et gestion d'infrastructure as code | Shell | 🌐 Public |
+| [🐳 MonProjetDevOps](https://github.com/AGL2304/MonProjetDevOps) | Pipeline CI/CD avec conteneurisation Docker et déploiement automatisé | Dockerfile | 🌐 Public |
+| [⚙️ Projet_DevOps](https://github.com/AGL2304/Projet_DevOps) | Exercices et configurations DevOps — orchestration, déploiement | HTML/Config | 🌐 Public |
+
+### 🌐 Développement applicatif
+
+| Repo | Description | Stack | Visibilité |
+|---|---|---|:-:|
+| [🏟️ CodeArena_EcoleIT_Pisc](https://github.com/AGL2304/CodeArena_EcoleIT_Pisc) | Plateforme de compétition de code en temps réel — sandbox Docker, auth JWT, classement multijoueur | Vue.js | 🌐 Public |
+| 🔒 Portail_IRFA | Portail intranet sécurisé — SSO Microsoft, RBAC, audit trail, 226 endpoints API | JavaScript | 🔒 Privé |
+| 🗺️ parcours_qr_code | Application de création de parcours de visite avec QR codes dynamiques | Blade/Vue | 🌐 Public |
+| [✈️ Travel_Guides](https://github.com/AGL2304/Travel_Guides) | Application de guides de voyage avec gestion de contenu dynamique | Twig | 🌐 Public |
+| [📅 Reservations_AGL](https://github.com/AGL2304/Reservations_AGL) | Système de réservation en ligne avec gestion de créneaux | PHP | 🌐 Public |
 
 ---
 
@@ -129,10 +192,10 @@ Pipeline DevSecOps typique :
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AGL2304&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGL2304&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=AGL2304&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGL2304&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGL2304&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGL2304&theme=dark&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
 
 </div>
 
@@ -141,48 +204,36 @@ Pipeline DevSecOps typique :
 ## 🎯 Focus actuel
 
 ```
-[██████████░░░░░░░░░░] Offensive Security & Red Teaming      ████
-[████████░░░░░░░░░░░░] Automatisation d'audits (Python)       ███
-[███████░░░░░░░░░░░░░] Déploiement sécurisé K8s / GKE         ███
-[██████░░░░░░░░░░░░░░] Préparation certifications (eJPT/OSCP)  ██
+Offensive Security & Red Teaming      [████████████░░░░░░░░]  60%
+Blue Team — SIEM & Détection           [████████░░░░░░░░░░░░]  40%
+CVE Research & Vuln Tracking          [█████████████░░░░░░░]  65%
+DevSecOps & Cloud Security            [███████████░░░░░░░░░]  55%
+Préparation eJPT / OSCP               [██████░░░░░░░░░░░░░░]  30%
 ```
 
 ---
 
 ## 🏆 Certifications & Formations
 
-| Badge | Formation / Certification | Organisme | Statut |
-|---|---|---|---|
-| 🎓 | Mastère Expert Sécurité | École-IT | 🔄 En cours |
-| 🔐 | eJPT / OSCP (préparation) | OffSec / eLearnSecurity | 🎯 En préparation |
-| ☁️ | AWS Cloud Practitioner | AWS | 🎯 En préparation |
-| 🧪 | TryHackMe — parcours SOC / Pentest | TryHackMe | ✅ Actif |
+| Formation / Certification | Organisme | Statut |
+|---|---|:-:|
+| 🎓 Mastère Expert Sécurité (EASRS) | École-IT | 🔄 En cours |
+| 🎯 eJPT — Junior Penetration Tester | eLearnSecurity | 🎯 En préparation |
+| 🎯 OSCP — Offensive Security | OffSec | 🗓️ Objectif 2026 |
+| ☁️ AWS Cloud Practitioner | Amazon Web Services | 🎯 En préparation |
+| 🧪 Parcours Pentest & SOC | TryHackMe | ✅ Actif |
 
 ---
 
-## 📁 Projets notables
-
-> ⚠️ *Les repos privés ne sont pas listés ici — contacte-moi pour un accès sur demande.*
-
-| Projet | Description | Stack |
-|---|---|---|
-| 🔍 **Outil d'audit web** | Scanner automatisé de vulnérabilités web (XSS, SQLi, SSRF) | Python, Requests, BeautifulSoup |
-| 🐳 **SecureCI Pipeline** | Template CI/CD avec SAST, scan image Docker et reporting automatique | GitHub Actions, Trivy, Docker |
-| 📡 **Network Mapper** | Script de cartographie réseau avec export JSON/CSV | Python, Nmap, scapy |
-| 🌐 **Portail intranet sécurisé** | Application web avec authentification SSO, RBAC et audit trail | Laravel / React / PostgreSQL |
-
----
-
-## 📫 Me contacter
+## 🧭 Ce que je cherche
 
 <div align="center">
 
-| Canal | Lien |
-|---|---|
-| 📧 Email | [charbelazon23@gmail.com](mailto:charbelazon23@gmail.com) |
-| 💼 LinkedIn | [georges-lionel-c-aanani](https://linkedin.com/in/georges-lionel-c-aanani35256618b) |
-| 🐙 GitHub | [@AGL2304](https://github.com/AGL2304) |
-| 🎯 TryHackMe | [agl23](https://tryhackme.com/p/agl23) |
+| Type | Domaine | Disponibilité |
+|:-:|:-:|:-:|
+| Stage / Alternance | Purple Team · Pentest · DevSecOps | 🟢 Disponible |
+| Projets open-source | Sécurité · Outils d'audit | 🟢 Ouvert |
+| CTF collaboratif | Red vs Blue · Challenges | 🟢 Toujours partant |
 
 </div>
 
@@ -190,12 +241,10 @@ Pipeline DevSecOps typique :
 
 <div align="center">
 
-💬 **Ouvert aux opportunités** — stage, alternance, projets en cybersécurité
+*"The best defense is a good offense — and understanding both is what makes a Purple Teamer."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AGL2304&color=00FF41&style=flat-square&label=Visites+profil)
+![Visitor Count](https://komarev.com/ghpvc/?username=AGL2304&color=A855F7&style=flat-square&label=Visites+profil)
 
-```
-"The quieter you become, the more you are able to hear." — Kali Linux motto
-```
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/agl23.png)](https://tryhackme.com/p/agl23)
 
 </div>
