@@ -36,7 +36,7 @@
 
 Étudiant en **Mastère Expert en Architectures des Systèmes, Réseaux & Sécurité** à l'[École-IT](https://www.ecole-it.com/).
 
-Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'est une vision unifiée de la sécurité. Je construis des compétences à la fois en **Red Team** (pénétration, exploitation, adversarial simulation) et en **Blue Team** (détection, monitoring, réponse à incident), pour comprendre les deux faces d'une même pièce et en tirer le meilleur.
+Le **Purple Team** n'est pas un compromis entre l'attaque et la défense; c'est une vision unifiée de la sécurité. Je construis des compétences à la fois en **Red Team** (pénétration, exploitation, adversarial simulation) et en **Blue Team** (détection, monitoring, réponse à incident), pour comprendre les deux faces d'une même pièce et en tirer le meilleur.
 
 > *"To defeat an attacker, you must think like one — and then build defenses that stop yourself."*
 
@@ -162,7 +162,7 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
 | [🔴🔵 Red_Teams_VS_Blue_Teams](https://github.com/AGL2304/Red_Teams_VS_Blue_Teams) | Simulation d'affrontement Red vs Blue — scénarios d'attaque et contre-mesures défensives | TypeScript | 🌐 Public |
 | [🔍 Projet_CVE_Trackers](https://github.com/AGL2304/Projet_CVE_Trackers) | Outil de veille CVE : agrégation, scoring CVSS et alertes automatisées | Python | 🌐 Public |
 | 🔐 SecureVault V2 | Gestionnaire de secrets sécurisé — chiffrement AES, RBAC, audit trail complet | TypeScript | 🔒 Privé |
-| [🔑 securevault](https://github.com/AGL2304/securevault) | Version initiale du coffre-fort de mots de passe (PHP) | PHP | 🌐 Public |
+
 
 ### ⚙️ DevOps & Cloud
 
