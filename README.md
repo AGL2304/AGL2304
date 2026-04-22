@@ -32,7 +32,7 @@
 
 ---
 
-## 🟣 Purple Team — Une posture à 360°
+## 🟣 Purple Team : Une posture à 360°
 
 Étudiant en **Mastère Expert en Architectures des Systèmes, Réseaux & Sécurité** à l'[École-IT](https://www.ecole-it.com/).
 
@@ -42,7 +42,7 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
 
 ---
 
-## 🟥 Red Team — Offensive Security
+## 🟥 Red Team : Offensive Security
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -66,7 +66,7 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense — c'e
 
 ---
 
-## 🟦 Blue Team — Défense & Détection
+## 🟦 Blue Team : Défense & Détection
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
