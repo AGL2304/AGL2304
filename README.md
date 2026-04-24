@@ -92,9 +92,9 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la défense; c'est 
 ## ⚙️ DevSecOps & Cloud
 
 ```
-  Commit
-    │
-    ▼
+               Commit
+                 │
+                 ▼
   ┌─────────────────────────────────────────────────────────┐
   │  GitHub Actions                                         │
   │  ├── SAST (analyse statique du code)                    │
