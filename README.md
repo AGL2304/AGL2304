@@ -110,9 +110,9 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la defense — c'es
 ## ⚙️ DevSecOps — Securite dans le cycle CI/CD
 
 ```
-   Commit
-     │
-     ▼
+               Commit
+                 │
+                 ▼
   ┌─────────────────────────────────────────────────────────┐
   │  GitHub Actions / GitLab CI                             │
   │  ├─ SAST (analyse statique : Semgrep, Bandit, Sonar)    │
