@@ -26,6 +26,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AGL2304)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/agl23)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charbelazon23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://mon-portfolio-mocha-ten.vercel.app/)
 
 [![Profile views](https://komarev.com/ghpvc/?username=AGL2304&label=Profile+views&color=A855F7&style=flat-square)](https://github.com/AGL2304)
 [![GitHub followers](https://img.shields.io/github/followers/AGL2304?label=Follow&style=social)](https://github.com/AGL2304)
@@ -45,6 +46,7 @@ identity:
   rhythm:      3 semaines entreprise / 1 semaine ecole
   english:     C1 (certifie Gymglish)
   tryhackme:   agl23 | Top 1% mondial | 185 salles | 5 parcours certifies
+  portfolio:   https://mon-portfolio-mocha-ten.vercel.app/
 ```
 
 ---
@@ -213,7 +215,7 @@ Le **Purple Team** n'est pas un compromis entre l'attaque et la defense : c'est 
 
 | Repo | Description | Stack |
 |---|---|---|
-| [Mon_Portfolio](https://github.com/AGL2304/Mon_Portfolio) | Portfolio multi-services (db + backend + frontend) et livrables GRC publics ISO 27001 / EBIOS RM | FastAPI, React, Postgres |
+| [Mon_Portfolio](https://github.com/AGL2304/Mon_Portfolio) | Portfolio multi-services (db + backend + frontend) et livrables GRC publics ISO 27001 / EBIOS RM. [Demo live](https://mon-portfolio-mocha-ten.vercel.app/) | FastAPI, React, Postgres |
 | [CodeArena_EcoleIT_Pisc](https://github.com/AGL2304/CodeArena_EcoleIT_Pisc) | Plateforme de competition de code temps reel : sandbox Docker, leaderboard Socket.io | Vue 3, Node.js, MongoDB |
 | [Travel_Guides](https://github.com/AGL2304/Travel_Guides) | Guides de voyage collaboratifs avec carte interactive | Symfony, Twig, PostgreSQL |
 | [parcours_qr_code](https://github.com/AGL2304/parcours_qr_code) | Parcours de visite via QR codes (musees, tourisme culturel) | Laravel, Blade, MySQL |
@@ -282,7 +284,8 @@ Et **15+ autres** sur [mon profil GitHub](https://github.com/AGL2304?tab=reposit
 - 📧 **Email** : [charbelazon23@gmail.com](mailto:charbelazon23@gmail.com)
 - 💼 **LinkedIn** : [Georges Lionel ANANI](https://www.linkedin.com/in/georges-lionel-c-a-anani-35256618b)
 - 🚩 **TryHackMe** : [agl23](https://tryhackme.com/p/agl23)
-- 📍 **Localisation** : Ile-de-France, ecole a Amiens
+- 🌐 **Portfolio** : [mon-portfolio-mocha-ten.vercel.app](https://mon-portfolio-mocha-ten.vercel.app/)
+- 📍 **Localisation** : Ile-de-France
 - 🌍 **Langues** : Francais (natif), Anglais C1 (Gymglish)
 
 > Telephone et adresse postale communiques sur demande via LinkedIn ou email.
