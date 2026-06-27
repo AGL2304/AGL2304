@@ -1,20 +1,6 @@
-<!--
-========================================================
-  FICHIER A COPIER VERS LE REPO  AGL2304/AGL2304
-  (le repo "profile" qui s'affiche sur ta page GitHub)
-========================================================
--->
-
 <div align="center">
 
-```
-██████╗ ██╗   ██╗██████╗ ██████╗ ██╗     ███████╗   ████████╗███████╗ █████╗ ███╗   ███╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██║     ██╔════╝   ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-██████╔╝██║   ██║██████╔╝██████╔╝██║     █████╗        ██║   █████╗  ███████║██╔████╔██║
-██╔═══╝ ██║   ██║██╔══██╗██╔═══╝ ██║     ██╔══╝        ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
-██║     ╚██████╔╝██║  ██║██║     ███████╗███████╗      ██║   ███████╗██║  ██║██║ ╚═╝ ██║
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,50:7c3aed,100:b91c1c&text=PURPLE%20TEAM&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Red%20%2B%20Blue%20%20%7C%20%20DevSecOps%20%20%7C%20%20GRC&descSize=18&descAlignY=58&animation=fadeIn" alt="Purple Team banner" width="100%" />
 
 # Georges Lionel ANANI
 
@@ -235,6 +221,22 @@ Et **15+ autres** sur [mon profil GitHub](https://github.com/AGL2304?tab=reposit
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGL2304&theme=tokyonight&hide_border=true&background=0a0a12&ring=A855F7&fire=F97316&currStreakLabel=A855F7)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AGL2304&bg_color=0a0a12&color=ECECF3&line=A855F7&point=F97316&area=true&area_color=A855F7&hide_border=true&custom_title=Activite%20de%20contribution" alt="Graphe d'activite" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Le snake devore mes contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGL2304/AGL2304/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGL2304/AGL2304/output/github-snake.svg" />
+  <img alt="Snake animation des contributions GitHub" src="https://raw.githubusercontent.com/AGL2304/AGL2304/output/github-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
@@ -297,5 +299,7 @@ Et **15+ autres** sur [mon profil GitHub](https://github.com/AGL2304?tab=reposit
 *"The best defense is a good offense, and understanding both is what makes a Purple Teamer."*
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/agl23.png)](https://tryhackme.com/p/agl23)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:b91c1c,50:7c3aed,100:1e3a8a&section=footer" alt="" width="100%" />
 
 </div>
