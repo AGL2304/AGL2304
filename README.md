@@ -25,10 +25,10 @@
 identity:
   name:        Georges Lionel ANANI
   role:        Purple Team Engineer (in training)
-  school:      École-IT, Amiens, Mastère Architectures Systèmes, Réseaux & Sécurité
-  current:     Stagiaire Transformation Numérique & Conformité @ IRFA-APISUP
-  location:    Île-de-France (mobile), école à Amiens
-  target:      Alternance Purple Team / GRC, septembre 2026
+  school:      IPSSI, Paris, Mastère 2 Cybersécurité & Cloud
+  current:     Étudiant Mastère 2, en recherche d'alternance
+  location:    Paris / Île-de-France
+  target:      Alternance Purple Team / GRC, dès que possible
   rhythm:      3 semaines entreprise / 1 semaine école
   english:     C1 (certifié Gymglish)
   tryhackme:   agl23 | Top 1% mondial | 185 salles | 5 parcours certifiés
@@ -39,7 +39,7 @@ identity:
 
 ## 🟣 Purple Team : une posture à 360 degrés
 
-Étudiant en **Mastère Expert Architectures Systèmes, Réseaux & Sécurité** à l'[École-IT](https://www.ecole-it.com/).
+Étudiant en **Mastère 2 Cybersécurité & Cloud** à l'IPSSI, Paris.
 
 Le **Purple Team** combine attaque et défense dans une même pratique. Je construis des compétences en **Red Team** (intrusion, exploitation, simulation d'attaque) et en **Blue Team** (détection, monitoring, réponse à incident), avec une couche **GRC** (audit, conformité, gestion des risques) qui traduit le technique en décisions de gouvernance.
 
@@ -160,7 +160,7 @@ Le **Purple Team** combine attaque et défense dans une même pratique. Je const
 
 ## 💼 Expérience pro
 
-**Stagiaire Transformation Numérique & Conformité** | _IRFA-APISUP, Amiens, depuis 01/2026_
+**Stagiaire Transformation Numérique & Conformité** | _IRFA-APISUP, Amiens, 01/2026 - 07/2026_
 
 - Cartographie des usages Microsoft 365 sur **~150 utilisateurs** et **8 entités**, puis matrice de risques RGPD priorisée en 3 vagues
 - Audit de **~200 comptes** SharePoint / Teams, soit 12 écarts au moindre privilège et un plan de remédiation 90 jours aligné PSSI
